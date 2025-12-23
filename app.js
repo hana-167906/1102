@@ -226,7 +226,7 @@ function GradeGoalChecker() {
     return (
         <div className="container">
             <div className="header">
-                <h1>🎯 성적 목표 달성 확인기</h1>
+                <h1>🎯 성적 목표 관리 웹사이트</h1>
                 <p>목표를 설정하고 시험 후 실제 점수를 입력하여 달성 여부를 확인하세요</p>
             </div>
 
